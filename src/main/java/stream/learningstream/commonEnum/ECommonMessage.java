@@ -7,7 +7,8 @@ public enum ECommonMessage {
 
 	DESCRIPTION("description"),
 	TAGS("tags"),
-	INDICATION("indication");
+	INDICATION("indication"),
+	PRODUCT("product");
 
 	private String name;
 

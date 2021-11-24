@@ -1,4 +1,4 @@
 package stream.learningstream.service.impl;
 
-public class ProductServiceImpl {
+public class BelajarServiceImpl {
 }

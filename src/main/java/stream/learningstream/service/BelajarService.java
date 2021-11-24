@@ -1,4 +1,4 @@
 package stream.learningstream.service;
 
-public interface ProductService {
+public interface BelajarService {
 }
